@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Notes-By-React/static/css/main.1252074e.chunk.css",
+    "main.js": "/Notes-By-React/static/js/main.c8ad1f75.chunk.js",
+    "main.js.map": "/Notes-By-React/static/js/main.c8ad1f75.chunk.js.map",
+    "runtime-main.js": "/Notes-By-React/static/js/runtime-main.02775cd0.js",
+    "runtime-main.js.map": "/Notes-By-React/static/js/runtime-main.02775cd0.js.map",
+    "static/css/2.03e651c0.chunk.css": "/Notes-By-React/static/css/2.03e651c0.chunk.css",
+    "static/js/2.c1e601d3.chunk.js": "/Notes-By-React/static/js/2.c1e601d3.chunk.js",
+    "static/js/2.c1e601d3.chunk.js.map": "/Notes-By-React/static/js/2.c1e601d3.chunk.js.map",
+    "index.html": "/Notes-By-React/index.html",
+    "static/css/2.03e651c0.chunk.css.map": "/Notes-By-React/static/css/2.03e651c0.chunk.css.map",
+    "static/css/main.1252074e.chunk.css.map": "/Notes-By-React/static/css/main.1252074e.chunk.css.map",
+    "static/js/2.c1e601d3.chunk.js.LICENSE.txt": "/Notes-By-React/static/js/2.c1e601d3.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/Notes-By-React/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02775cd0.js",
+    "static/css/2.03e651c0.chunk.css",
+    "static/js/2.c1e601d3.chunk.js",
+    "static/css/main.1252074e.chunk.css",
+    "static/js/main.c8ad1f75.chunk.js"
+  ]
+}
